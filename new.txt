@@ -1,0 +1,3 @@
+This is the file in second branch; other then the master branch.
+
+Thanku...
